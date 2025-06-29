@@ -1,20 +1,28 @@
-<<<<<<< HEAD
-# expense
+This is a simple and powerful Expense Tracker app built with Flutter and Firebase. It allows users to easily manage their personal finances by adding, editing, and deleting expenses and incomes. The app securely stores all data in Firebase and provides useful statistics to help users understand their spending habits.
 
-A new Flutter project.
+✨ Features
+✅ Add Expenses & Incomes
 
-## Getting Started
+Easily add new expense or income entries.
+Store transaction details in Firebase in real time.
+✅ View Transaction List
 
-This project is a starting point for a Flutter application.
+See a clear list of all expenses and incomes.
+Edit or delete any entry as needed.
+✅ Detailed Statistics
 
-A few resources to get you started if this is your first Flutter project:
+View weekly comparisons of your total expenses vs. income.
+Visualize your spending trends to better plan your budget.
+✅ Firebase Integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+All data is stored and synced with Firebase.
+Real-time updates keep your financial data secure and accessible.
+🚀 Why use this app?
+Keeping track of your money shouldn’t be complicated. This app helps you:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# MoneyTrackr
->>>>>>> cddecf1c95966d52cc3b2f90a416162f51693ba5
+Monitor where your money goes
+Balance your income and expenses
+Make informed financial decisions with clear weekly stats
+⚙️ Tech Stack
+Flutter — for a smooth, cross-platform mobile experience
+Firebase — for real-time database and authentication
