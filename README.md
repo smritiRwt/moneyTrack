@@ -26,3 +26,6 @@ Make informed financial decisions with clear weekly stats
 ⚙️ Tech Stack
 Flutter — for a smooth, cross-platform mobile experience
 Firebase — for real-time database and authentication
+#🗂️ State Management
+- This app uses [Riverpod](https://riverpod.dev) for clean and reactive state management.
+
